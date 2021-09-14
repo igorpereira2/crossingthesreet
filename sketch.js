@@ -243,7 +243,7 @@ function creditos(){
   text('PROGRAMADOR', 350, 70);
   textSize(26)
   text('Igor Pereira de Araújo', 341,310); 
-  text('Graduando em Ciência e Tecnologia/UFRN', 341, 343);
+  text('Graduando em Ciências e Tecnologia/UFRN', 341, 343);
   text('E-mail: igor.pereira.008@ufrn.edu.br', 345, 376);
   textSize(20)
   text('VOLTAR', 360, 420);
